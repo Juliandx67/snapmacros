@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "swapmacros",
+  "version": "${version}",
+  "name": "Swap Macros",
+  "description": "Hotbar swap macros on keybinds.",
+  "authors": [],
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.example.swapmacros.SwapMacros"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

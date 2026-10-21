@@ -1,0 +1,7 @@
+1. Auf github.com oben rechts auf "+" -> "New repository". Name: swapmacros, dann "Create repository".
+2. Auf der neuen Seite auf "uploading an existing file" klicken.
+3. ALLE Inhalte dieses entpackten Ordners ins Browserfenster ziehen (inklusive des Ordners ".github" und "src").
+4. Unten "Commit changes" klicken.
+5. Oben auf "Actions" klicken, auf den laufenden Build klicken, warten bis er einen gruenen Haken hat.
+6. Unten bei "Artifacts" swapmacros-jar herunterladen, entpacken.
+7. Die Datei swapmacros-1.0.0.jar (NICHT die mit -sources) in den Lunar-Launcher ziehen (Profil 1.21.11, Fabric).
